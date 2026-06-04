@@ -4,13 +4,13 @@ Vengo del mundo del soporte IT, donde he resuelto problemas complejos y asegurad
 
 Actualmente estoy realizando mi especialización práctica en **NTT Data**, consolidando mis conocimientos teóricos en un entorno empresarial real.
 
-### 🚀 Sobre mí
-* 🌱 **Actualmente especializándome en:** Inteligencia Artificial, Arquitecturas de Big Data y Machine Learning.
-* 🛠️ **Mi background:** Experiencia como IT Specialist, lo que me da una base sólida en resolución de problemas y entendimiento de sistemas.
-* 🎯 **Mi objetivo:** Aplicar mi experiencia técnica en sistemas para optimizar pipelines de datos y desarrollar modelos de IA escalables.
-* 📫 **Cómo contactarme:** www.linkedin.com/in/iván-alonso-vidal-8251a7321
+### Sobre mí
+* **Actualmente especializándome en:** Inteligencia Artificial, Arquitecturas de Big Data y Machine Learning.
+* **Mi background:** Experiencia como IT Specialist, lo que me da una base sólida en resolución de problemas y entendimiento de sistemas.
+* **Mi objetivo:** Aplicar mi experiencia técnica en sistemas para optimizar pipelines de datos y desarrollar modelos de IA escalables.
+* **Cómo contactarme:** www.linkedin.com/in/iván-alonso-vidal-8251a7321
 
-### 💻 Stack Tecnológico (En desarrollo)
+### Stack Tecnológico (En desarrollo)
 
 **Lenguajes de Programación**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

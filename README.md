@@ -14,7 +14,7 @@ Actualmente estoy realizando mi especialización práctica en **NTT Data**, cons
 
 **Lenguajes**  
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![SQL](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 

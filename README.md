@@ -1,6 +1,6 @@
 # ¡Hola! Soy Iván 👋
 
-Vengo del mundo del soporte IT, donde he resolvido problemas complejos y asegurado el funcionamiento de los sistemas. Ahora, estoy dando el salto al **Big Data y la Inteligencia Artificial**, aplicando esa misma mentalidad resolutiva y analítica para extraer valor de los datos y construir soluciones de Machine Learning.
+Vengo del mundo del soporte IT, donde he resuelto problemas complejos y asegurado el funcionamiento de los sistemas. Ahora, estoy dando el salto al **Big Data y la Inteligencia Artificial**, aplicando esa misma mentalidad resolutiva y analítica para extraer valor de los datos y construir soluciones de Machine Learning.
 
 Actualmente estoy realizando mi especialización práctica en **NTT Data**, consolidando mis conocimientos teóricos en un entorno empresarial real.
 

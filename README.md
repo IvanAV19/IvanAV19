@@ -13,4 +13,4 @@ Actualmente estoy realizando mi especialización práctica en **NTT Data**, cons
 ### 💻 Stack Tecnológico (En desarrollo)
 * **Lenguajes:** Python, SQL, JavaScript, PHP
 * **Datos e IA:** Data Analytics, Machine Learning (Pandas, Scikit-learn, TensorFlow, PySpark, PyTorch)
-* **Herramientas:** Git, bases de datos relacionales, Databricks, PowerBI, Azure
+* **Herramientas:** Git, bases de datos relacionales, Databricks, PowerBI, Azure, Docker

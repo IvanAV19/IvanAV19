@@ -30,7 +30,3 @@ Actualmente estoy realizando mi especialización práctica en **NTT Data**, cons
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### 📊 Actividad y Estadísticas
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=IvanAV19&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/IvanAV19)

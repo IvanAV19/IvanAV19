@@ -26,9 +26,9 @@ Actualmente estoy realizando mi especialización práctica en **NTT Data**, cons
 
 **Big Data & Cloud**  
 ![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff)](#)
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
-![Power BI](https://img.shields.io/badge/MS_Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
 
 **Control de Versiones y Contenedores**  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)

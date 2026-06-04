@@ -33,7 +33,6 @@ Actualmente estoy realizando mi especialización práctica en **NTT Data**, cons
 
 ### 📊 Actividad y Estadísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IvanAV19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanAV19&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes principales" />
-</div>
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=IvanAV19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/IvanAV19)
+
+[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanAV19&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/IvanAV19)

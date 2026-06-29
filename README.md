@@ -2,14 +2,17 @@
 
 ### Transformando datos en soluciones de valor.
 
-Profesional del sector tecnológico en constante evolución. Tras consolidar mi experiencia técnica en el ámbito IT, he centrado mi carrera en el **Big Data y la Inteligencia Artificial**. Mi objetivo es transformar arquitecturas de información complejas en soluciones predictivas y de valor.
+Profesional del ámbito tecnológico especializado en **Big Data e Inteligencia Artificial**, con experiencia en entornos reales de análisis y desarrollo de soluciones basadas en datos. Combino una base sólida en sistemas y desarrollo software con especialización en procesamiento de datos, Machine Learning y arquitecturas de datos.
 
-Actualmente, afianzo mi especialización técnica dentro de **NTT Data**, trabajando con el ecosistema de datos en un entorno empresarial real.
+He trabajado en entornos corporativos participando en proyectos de análisis de datos, procesamiento distribuido y desarrollo de modelos de Machine Learning, aplicando tecnologías como Python, PySpark y SQL.
+
+Mi objetivo es diseñar y optimizar pipelines de datos, así como desarrollar soluciones de inteligencia artificial escalables que generen valor a partir de datos complejos.
 
 ### Sobre mí
-* **Actualmente especializándome en:** Inteligencia Artificial, Arquitecturas de Big Data y Machine Learning.
-* **Mi background:** Experiencia como IT Specialist, lo que me da una base sólida en resolución de problemas y entendimiento de sistemas.
-* **Mi objetivo:** Aplicar mi experiencia técnica en sistemas para optimizar pipelines de datos y desarrollar modelos de IA escalables.
+* **Especialización:** Inteligencia Artificial, Big Data y Machine Learning.
+* **Experiencia:** Análisis de datos, ETL, desarrollo de modelos predictivos en entorno corporativo
+* **Background:** Experiencia como IT Specialist, lo que me da una base sólida en resolución de problemas y entendimiento de sistemas.
+* **Mi objetivo:** Aplicar mi experiencia técnica en sistemas, IA y Data Engineering para optimizar pipelines de datos y desarrollar modelos de IA escalables.
 
 ### Stack Tecnológico (En desarrollo)
 
